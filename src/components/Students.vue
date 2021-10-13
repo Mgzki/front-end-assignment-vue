@@ -24,6 +24,7 @@ export default {
           tags:{}, // contains an array for each student, where each student array contains their tags
           searchName: '', // stores user input for search by name field
           searchTag: '', // stores user input for search by tag field
+          
       }
   },
   props: {
